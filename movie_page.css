@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.poster {
+  width: 25%;
+  height: auto;
+}
+
+.charPicture {
+  width: 10%;
+  height: auto;
+}
