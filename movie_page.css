@@ -1,7 +1,4 @@
-* {
-  padding: 0;
-  margin: 0;
-}
+
 
 .poster {
   width: 25%;
@@ -11,4 +8,18 @@
 .charPicture {
   width: 10%;
   height: auto;
+}
+
+#btnloadMore {
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  color: black;
+  border-radius: 10px;
+}
+
+ol {
+  margin: 2rem;
+}
+
+li {
+  margin-top: 1rem;
 }
