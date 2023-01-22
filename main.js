@@ -1,4 +1,4 @@
-let moviePageURL = 'file:///D:/Documents/Course_JS_HTML_ACADEMY/Star_wars_project/movie_page.html'
+let moviePageURL = 'https://github.com/Trymid/Star_wars_project/blob/main/movie_page.html'
 let wrapper = document.getElementById('wrapper');
 let header = document.getElementById('header');
 let main = document.getElementById('main');
